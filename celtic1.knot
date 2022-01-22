@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knot version="4" generator="Knotter 0.9.7">
+    <style>
+        <colors>
+            <color alpha="255">#000000</color>
+        </colors>
+        <borders>
+            <border width="1" alpha="255">#000000</border>
+            <border width="3" alpha="255">#ffffff</border>
+            <border width="2" alpha="255">#000000</border>
+        </borders>
+        <cusp>
+            <shape>pointed</shape>
+            <angle>225</angle>
+            <distance>30</distance>
+            <curve>24</curve>
+        </cusp>
+        <crossing>
+            <gap>10</gap>
+            <slide>0.5</slide>
+            <curve>24</curve>
+        </crossing>
+        <stroke>
+            <width>5</width>
+            <style>SolidPattern</style>
+            <join>RoundJoin</join>
+        </stroke>
+    </style>
+    <graph>
+        <nodes>
+            <node id="node_1" x="224" y="-128"/>
+            <node id="node_2" x="288" y="-128"/>
+            <node id="node_3" x="352" y="-128"/>
+            <node id="node_4" x="416.001" y="-128"/>
+            <node id="node_5" x="480.001" y="-128"/>
+            <node id="node_6" x="544.001" y="-128"/>
+            <node id="node_7" x="608.001" y="-128"/>
+            <node id="node_8" x="224" y="-63.9998"/>
+            <node id="node_9" x="288" y="-63.9998"/>
+            <node id="node_10" x="352" y="-63.9998"/>
+            <node id="node_11" x="416.001" y="-63.9998"/>
+            <node id="node_12" x="480.001" y="-63.9998"/>
+            <node id="node_13" x="544.001" y="-63.9998"/>
+            <node id="node_14" x="608.001" y="-63.9998"/>
+            <node id="node_15" x="224" y="0.000434027"/>
+            <node id="node_16" x="288" y="0.000434027"/>
+            <node id="node_17" x="352" y="0.000434027"/>
+            <node id="node_18" x="416.001" y="0.000434027"/>
+            <node id="node_19" x="480.001" y="0.000434027"/>
+            <node id="node_20" x="544.001" y="0.000434027"/>
+            <node id="node_21" x="608.001" y="0.000434027"/>
+            <node id="node_22" x="224" y="64.0007"/>
+            <node id="node_23" x="288" y="64.0007"/>
+            <node id="node_24" x="352" y="64.0007"/>
+            <node id="node_25" x="416.001" y="64.0007"/>
+            <node id="node_26" x="480.001" y="64.0007"/>
+            <node id="node_27" x="544.001" y="64.0007"/>
+            <node id="node_28" x="608.001" y="64.0007"/>
+            <node id="node_29" x="224" y="128.001"/>
+            <node id="node_30" x="288" y="128.001"/>
+            <node id="node_31" x="352" y="128.001"/>
+            <node id="node_32" x="416.001" y="128.001"/>
+            <node id="node_33" x="480.001" y="128.001"/>
+            <node id="node_34" x="544.001" y="128.001"/>
+            <node id="node_35" x="608.001" y="128.001"/>
+            <node id="node_36" x="224" y="192.001"/>
+            <node id="node_37" x="288" y="192.001"/>
+            <node id="node_38" x="352" y="192.001"/>
+            <node id="node_39" x="416.001" y="192.001"/>
+            <node id="node_40" x="480.001" y="192.001"/>
+            <node id="node_41" x="544.001" y="192.001"/>
+            <node id="node_42" x="608.001" y="192.001"/>
+            <node id="node_43" x="224" y="256.001"/>
+            <node id="node_44" x="288" y="256.001"/>
+            <node id="node_45" x="352" y="256.001"/>
+            <node id="node_46" x="416.001" y="256.001"/>
+            <node id="node_47" x="480.001" y="256.001"/>
+            <node id="node_48" x="544.001" y="256.001"/>
+            <node id="node_49" x="608.001" y="256.001"/>
+        </nodes>
+        <edges>
+            <edge type="regular" v1="node_2" v2="node_3"/>
+            <edge type="regular" v1="node_5" v2="node_6"/>
+            <edge type="regular" v1="node_6" v2="node_7"/>
+            <edge type="regular" v1="node_1" v2="node_8"/>
+            <edge type="regular" v1="node_8" v2="node_9"/>
+            <edge type="regular" v1="node_4" v2="node_11"/>
+            <edge type="regular" v1="node_13" v2="node_14"/>
+            <edge type="regular" v1="node_7" v2="node_14"/>
+            <edge type="regular" v1="node_15" v2="node_16"/>
+            <edge type="regular" v1="node_9" v2="node_16"/>
+            <edge type="regular" v1="node_11" v2="node_18"/>
+            <edge type="regular" v1="node_12" v2="node_19"/>
+            <edge type="regular" v1="node_13" v2="node_20"/>
+            <edge type="regular" v1="node_20" v2="node_21"/>
+            <edge type="regular" v1="node_22" v2="node_23"/>
+            <edge type="regular" v1="node_16" v2="node_23"/>
+            <edge type="regular" v1="node_23" v2="node_24"/>
+            <edge type="regular" v1="node_24" v2="node_25"/>
+            <edge type="regular" v1="node_25" v2="node_26"/>
+            <edge type="regular" v1="node_26" v2="node_27"/>
+            <edge type="regular" v1="node_20" v2="node_27"/>
+            <edge type="regular" v1="node_27" v2="node_28"/>
+            <edge type="regular" v1="node_29" v2="node_30"/>
+            <edge type="regular" v1="node_23" v2="node_30"/>
+            <edge type="regular" v1="node_27" v2="node_34"/>
+            <edge type="regular" v1="node_34" v2="node_35"/>
+            <edge type="regular" v1="node_36" v2="node_37"/>
+            <edge type="regular" v1="node_30" v2="node_37"/>
+            <edge type="regular" v1="node_32" v2="node_39"/>
+            <edge type="regular" v1="node_33" v2="node_40"/>
+            <edge type="regular" v1="node_34" v2="node_41"/>
+            <edge type="regular" v1="node_41" v2="node_42"/>
+            <edge type="regular" v1="node_36" v2="node_43"/>
+            <edge type="regular" v1="node_43" v2="node_44"/>
+            <edge type="regular" v1="node_44" v2="node_45"/>
+            <edge type="regular" v1="node_39" v2="node_46"/>
+            <edge type="regular" v1="node_47" v2="node_48"/>
+            <edge type="regular" v1="node_48" v2="node_49"/>
+            <edge type="regular" v1="node_42" v2="node_49"/>
+            <edge type="regular" v1="node_18" v2="node_25"/>
+            <edge type="regular" v1="node_25" v2="node_32"/>
+            <edge type="regular" v1="node_10" v2="node_17"/>
+            <edge type="regular" v1="node_31" v2="node_38"/>
+            <edge type="regular" v1="node_40" v2="node_41"/>
+            <edge type="regular" v1="node_37" v2="node_38"/>
+            <edge type="regular" v1="node_38" v2="node_39"/>
+            <edge type="regular" v1="node_39" v2="node_40"/>
+            <edge type="regular" v1="node_9" v2="node_10"/>
+            <edge type="regular" v1="node_10" v2="node_11"/>
+            <edge type="regular" v1="node_11" v2="node_12"/>
+            <edge type="regular" v1="node_12" v2="node_13"/>
+            <edge type="regular" v1="node_1" v2="node_2"/>
+        </edges>
+    </graph>
+</knot>
